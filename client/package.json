@@ -1,0 +1,22 @@
+{
+    "name": "fitness-tracker",
+    "version": "1.0.0",
+    "description": "A fitness tracker application built with Vue.js",
+    "main": "main.js",
+    "scripts": {
+      "serve": "vue-cli-service serve",
+      "build": "vue-cli-service build",
+      "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+      "vue": "^2.6.12",
+      "vue-router": "^3.5.1",
+      "vuex": "^3.6.2"
+    },
+    "devDependencies": {
+      "@vue/cli-service": "^4.5.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
