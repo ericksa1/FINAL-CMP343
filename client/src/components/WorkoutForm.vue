@@ -21,7 +21,7 @@ export default {
   },
   methods: {
     submitWorkout() {
-      // Handle workout logging logic
+      
     },
   },
 };
@@ -29,6 +29,6 @@ export default {
 
 <style scoped>
 .workout-form {
-  /* Add your styles here */
+  
 }
 </style>

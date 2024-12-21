@@ -28,6 +28,6 @@ export default {
 
 <style scoped>
 .login {
-  /* Add your styles here */
+
 }
 </style>

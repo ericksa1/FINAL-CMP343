@@ -13,6 +13,6 @@ export default {
 
 <style scoped>
 .dashboard {
-  /* Add your styles here */
+  
 }
 </style>
